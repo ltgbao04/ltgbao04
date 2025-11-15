@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Le Tran Gia Bao</h1> 
-<h3 align="center">Final year student majoring in Computer Science. Passionate about applying AI in CyberSecurity. Currently work as an AI Pentest intern.</h3>  
+<h3 align="center">Final year student majoring in Computer Science. Passionate about applying AI in CyberSecurity. Currently work as an AI-Pentester Intern.</h3>  
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
