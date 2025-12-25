@@ -44,13 +44,14 @@
 
 <!-- Stats with black background -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ltgbao04&show_icons=true&locale=en&layout=compact&theme=dark" alt="ltgbao04" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltgbao04&show_icons=true&locale=en&theme=dark" alt="ltgbao04" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltgbao04&theme=dark" alt="ltgbao04" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltgbao04&layout=compact&theme=dark&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ltgbao04&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ltgbao04&theme=dark&hide_border=true" />
+</p>
+
